@@ -43,13 +43,6 @@
       "quadrant": "SQ1"
     },
     {
-      "id": "ISlkF4G",
-      "name": "Leo",
-      "meaning": "Lion",
-      "starsWithPlanets": 19,
-      "quadrant": "NQ2"
-    },
-    {
       "id": "n2OEOzp",
       "name": "Libra",
       "meaning": "Balance",
@@ -97,6 +90,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Leo",
+      "meaning": "Lion",
+      "starsWithPlanets": 19,
+      "quadrant": "NQ2",
+      "id": "kK2On5L"
     }
   ]
 }
